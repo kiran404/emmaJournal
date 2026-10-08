@@ -4,6 +4,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="wrap">
         © {new Date().getFullYear()} {SITE_NAME}
+        <br />
         <i>Emma bingol Copyrights</i>
       </div>
     </footer>
